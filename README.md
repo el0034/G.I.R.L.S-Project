@@ -10,7 +10,7 @@ view others' media as well.
 
 For the purpose of this project a Java IDE is needed
 
-To Run the program:
+To Run the program: <br />
 1: Unzip the file <br />
 2: Create a new project in your Java specific IDE <br />
 3: Import all files into the src folder of the project <br />
